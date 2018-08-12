@@ -1,0 +1,2 @@
+# Chatfroze
+chat froze Plugin
