@@ -1,0 +1,9 @@
+name: Cheatfroze
+main: Hyide\Chatfroze\Chatfroze
+author: Hyide
+version: 0.0.1
+api: 
+- 4.0.0
+commands:
+ 채팅:
+  description: 채팅 얼리기
